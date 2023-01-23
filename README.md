@@ -5,8 +5,8 @@
 
 
 ### **SuezDevelopment** 
-**Followers**: <span id="followers"></span>
-**Visitors Count**: Today<span id="followers"></span>
+- **Followers**: <span id="followers"></span>
+- **Visitors Count**: Today<span id="followers"></span>
 
 
 ***
