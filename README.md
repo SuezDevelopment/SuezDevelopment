@@ -14,6 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<script>
+    fetch('https://api.github.com/users/username')
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+        });
+</script>
+
+## data.public_repos
+
+
 ## 2023 ToDo List 
 - [x] Create Tutorials in GoLang
 - [x] Create Tutorials in Ruby
