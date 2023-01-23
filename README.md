@@ -28,6 +28,8 @@ def my_function(x: int, y: int) -> int:
 result = my_function(2, 3)
 print(result)  # Output: 5
 
+```
+
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
