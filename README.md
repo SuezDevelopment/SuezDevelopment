@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Contact
+
+- Email: [olayode.gideon@calebuniversity.edu.ng](mailto:olayode.gideon@calebuniversity.edu.ng)
+- LinkedIn: [linkedin.com/in/gideonolayode](https://www.linkedin.com/in/gideonolayode/)
+- Twitter: [@giddy1billion](https://twitter.com/giddy1billion)
