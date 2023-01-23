@@ -1,35 +1,15 @@
-<script>
-    fetch('https://api.github.com/users/SuezDevelopment', {
-        headers: {
-            Authorization: 'Token YOUR_TOKEN_HERE'
-        }
-    })
-    .then(response => response.json())
-    .then(data => {
-        console.log(data); // You can see the all the data that you got from the API
-        document.getElementById("followers").innerHTML = data.followers;
-    });
-</script>
+
 
 ### Hi there 👋, welcome!
 
 
 
 ### **SuezDevelopment** 
-Followers: <span id="followers"></span>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Followers**: <span id="followers"></span>
+**Visitors Count**: Today<span id="followers"></span>
 
 
+***
 ## 2023 ToDo List 
 - [x] Create Tutorials in GoLang
 - [x] Create Tutorials in Ruby
