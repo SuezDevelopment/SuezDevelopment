@@ -1,13 +1,22 @@
+<script>
+    fetch('https://api.github.com/users/SuezDevelopment', {
+        headers: {
+            Authorization: 'Token YOUR_TOKEN_HERE'
+        }
+    })
+    .then(response => response.json())
+    .then(data => {
+        console.log(data); // You can see the all the data that you got from the API
+        document.getElementById("followers").innerHTML = data.followers;
+    });
+</script>
+
 ### Hi there 👋, welcome!
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+
 
 ### **SuezDevelopment** 
+Followers: <span id="followers"></span>
 
 Here are some ideas to get you started:
 
@@ -19,17 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<script>
-    fetch('https://api.github.com/users/username')
-        .then(response => response.json())
-        .then(data => {
-            console.log(data);
-        });
-</script>
-
-## data.public_repos
 
 
 ## 2023 ToDo List 
