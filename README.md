@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 2023 ToDo List 
+- [x] Create Tutorials in GoLang
+- [x] Create Tutorials in Ruby
+
 ## Contact
 
 - Email: [olayode.gideon@calebuniversity.edu.ng](mailto:olayode.gideon@calebuniversity.edu.ng)
@@ -23,19 +27,14 @@ Here are some ideas to get you started:
 
 ```python
 def my_function(x: int, y: int) -> int:
-    return x + y
+    return x / y
 
-result = my_function(2, 3)
-print(result)  # Output: 5
+result = my_function(360, 30)
+print(result) 
 
 ```
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
-| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
 
 
 
-
-> Gideon 
+>## Gideon Olayode
