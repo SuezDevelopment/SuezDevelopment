@@ -19,3 +19,11 @@ Here are some ideas to get you started:
 - Email: [olayode.gideon@calebuniversity.edu.ng](mailto:olayode.gideon@calebuniversity.edu.ng)
 - LinkedIn: [linkedin.com/in/gideonolayode](https://www.linkedin.com/in/gideonolayode/)
 - Twitter: [@giddy1billion](https://twitter.com/giddy1billion)
+
+
+```python
+def my_function(x: int, y: int) -> int:
+    return x + y
+
+result = my_function(2, 3)
+print(result)  # Output: 5
