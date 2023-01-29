@@ -3,7 +3,7 @@
 ### Hi there 👋, welcome!
 
 
-![Alt text](/76E2255F-BB27-43D9-A432-825851F46496.png) “Success Alaska Development")
+![Success Alaska Development](/76E2255F-BB27-43D9-A432-825851F46496.png)
 
 ### **SuezDevelopment** 
 - **Followers**: <span id="followers"></span>
