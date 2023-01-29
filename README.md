@@ -3,7 +3,7 @@
 ### Hi there 👋, welcome!
 
 
-![Alt text](https://github.com/SuezDevelopment/SuezDevelopment/blob/main/Logo/11770C9E-5BA3-4E6E-A9DC-4F76A77139C8.png“Optional title")
+![Alt text](/Logo/11770C9E-5BA3-4E6E-A9DC-4F76A77139C8.png “Optional title")
 
 ### **SuezDevelopment** 
 - **Followers**: <span id="followers"></span>
