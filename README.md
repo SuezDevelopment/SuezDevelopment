@@ -9,7 +9,9 @@
 - **Followers**: <span id="followers"></span>
 - **Visitors Count**: Today<span id="followers"></span>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SuezDevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="jemmycodes" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuezDevelopment" alt="SuezDevelopment" /></a> </p>
 ***
 ## 2023 ToDo List 
 - [x] Create Tutorials in GoLang
