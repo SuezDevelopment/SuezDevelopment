@@ -5,14 +5,12 @@
 
 ![Success Alaska Development](/76E2255F-BB27-43D9-A432-825851F46496.png)
 
-### **SuezDevelopment** 
-- **Followers**: <span id="followers"></span>
-- **Visitors Count**: Today<span id="followers"></span>
-
+# **SuezDevelopment** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuezDevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="jemmycodes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuezDevelopment" alt="SuezDevelopment" /></a> </p>
-***
+
+********
 ## 2023 ToDo List 
 - [x] Create Tutorials in GoLang
 - [x] Create Tutorials in Ruby
