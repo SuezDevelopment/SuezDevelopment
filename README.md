@@ -57,4 +57,12 @@ func Feature(f func(interface{}, error)) func() (interface{}, error) {
 
 ```
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuezDevelopment&show_icons=true&locale=en&layout=compact" alt="SuezDevelopment" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuezDevelopment&show_icons=true&locale=en" alt="SuezDevelopment" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuezDevelopment&" alt="SuezDevelopment" /></p>
+
+
 >## Gideon Olayode
