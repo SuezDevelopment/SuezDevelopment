@@ -35,7 +35,14 @@ print(result)
 
 
 
+// 
+
 ```go
+
+/*
+The "Feature" function creates a goroutine to execute the wrapped function asynchronously, 
+while the returned function waits for the execution to complete before returning the result.
+*/
 func Feature(f func(interface{}, error)) func() (interface{}, error) {
 	var result interface{}
 	var err error
