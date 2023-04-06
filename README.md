@@ -20,7 +20,7 @@
 
 ## Contact
 
-- Email: [olayode.gideon@calebuniversity.edu.ng](mailto:olayode.gideon@calebuniversity.edu.ng)
+- Email: [gideons@suezdev.icu](mailto:gideons@suezdev.icu)
 - LinkedIn: [linkedin.com/in/gideonolayode](https://www.linkedin.com/in/gideonolayode/)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png
