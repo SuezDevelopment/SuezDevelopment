@@ -11,7 +11,13 @@
 # **SuezDevelopment** 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuezDevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="jemmycodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuezDevelopment" alt="SuezDevelopment" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuezDevelopment&theme=dark#gh-dark-mode-only" alt="SuezDevelopment" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuezDevelopment&show_icons=true&locale=en&layout=compact&theme=dark#gh-dark-mode-only" alt="SuezDevelopment" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuezDevelopment&hide=contribs,prs&count_private=true&show_icons=true&locale=en&theme=dark#gh-dark-mode-only&hide=contribs,prs" alt="SuezDevelopment" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuezDevelopment&theme=dark#gh-dark-mode-only" alt="SuezDevelopment" /></p>
 
 ********
 ## 2023 ToDo List 
@@ -64,13 +70,6 @@ func Feature(f func(interface{}, error)) func() (interface{}, error) {
 }
 
 ```
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuezDevelopment&show_icons=true&locale=en&layout=compact" alt="SuezDevelopment" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SuezDevelopment&show_icons=true&locale=en" alt="SuezDevelopment" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SuezDevelopment&" alt="SuezDevelopment" /></p>
 
 
 >## Gideon Olayode
