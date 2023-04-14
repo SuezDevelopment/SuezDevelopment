@@ -24,13 +24,8 @@
 - [x] Create Tutorials in GoLang
 - [x] Create Tutorials in Ruby
 
-## Contact
 
-- Email: [gideons@suezdev.icu](mailto:gideons@suezdev.icu)
-- LinkedIn: [linkedin.com/in/gideonolayode](https://www.linkedin.com/in/gideonolayode/)
-- Twitter: [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/giddy1billion.svg?style=social&label=Follow%20%40giddy1billion)](https://twitter.com/giddy1billion)
-
-
+- Python
 ```python
 def my_function(x: int, y: int) -> int:
     return x / y
@@ -40,9 +35,8 @@ print(result)
 
 ```
 
-
+- Go
 ```go
-
 /*
 The "Feature" function creates a goroutine to execute the wrapped function asynchronously, 
 while the returned function waits for the execution to complete before returning the result.
