@@ -1,15 +1,30 @@
 
 
-### Hi there 👋, welcome!
+## Hi there 👋, I'm [Gideon](https://www.linkedin.com/in/gideonolayode/). Welcome to my GitHub Profile!
 <div align="center">
 	
 ![Success Alaska Development](/76E2255F-BB27-43D9-A432-825851F46496.png)
 
 </div>
 
+[![Profile views](https://komarev.com/ghpvc/?username=SuezDevelopment&label=Profile%20views&style=for-the-badge)](https://github.com/SuezDevelopment)
 
-# **SuezDevelopment** 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SuezDevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="jemmycodes" /> </p>
+---
+
+## 🛠️ Languages and tools
+</br>
+
+[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,cloud,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,go,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://www.linkedin.com/in/gideonolayode/)
+
+---
+
+---
+
+## 👨‍💻 LOC
+[![Lines of Code](https://api.githubtrends.io/user/svg/SuezDevelopment/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://www.linkedin.com/in/gideonolayode/)
+
+---
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuezDevelopment&theme=dark#gh-dark-mode-only" alt="SuezDevelopment" /></a> </p>
 
